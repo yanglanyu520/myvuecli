@@ -1,5 +1,6 @@
 <template>
-   <router-link to="newcontact"><h1>{{ msg }}</h1></router-link>
+   <!-- <router-link to="newcontact"><h1>{{ msg }}</h1></router-link> -->
+    <router-link to="login"><h1>{{ msg }}</h1></router-link>
 </template>
 
 <script>
