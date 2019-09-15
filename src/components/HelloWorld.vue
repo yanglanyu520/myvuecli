@@ -17,5 +17,6 @@ export default {
  h1{
      font-weight: normal;
      font-size: 18px;
+     font-style: none
    }
 </style>
