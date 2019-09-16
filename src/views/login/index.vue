@@ -219,7 +219,6 @@ $cursor: #fff;
     color: $cursor;
   }
 }
-
 /* reset element-ui css */
 .login-container {
   .el-input {
@@ -254,7 +253,7 @@ $cursor: #fff;
 </style>
 
 <style lang="scss" scoped>
-$bg:#2d3a4b;
+$bg:#333333;
 $dark_gray:#889aa4;
 $light_gray:#eee;
 

@@ -6,6 +6,7 @@ import router from './router'
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
 import '@/styles/index.scss' // 全局的css
+import 'normalize.css/normalize.css' // a modern alternative to CSS resets
 
 Vue.config.productionTip = false
 Vue.use(ElementUI)
